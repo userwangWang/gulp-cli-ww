@@ -1,0 +1,8 @@
+{
+  "name": "gulp-cli-ww",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:userwangWang/gulp-cli-ww.git",
+  "author": "ww <15121178872@163.com>",
+  "license": "MIT"
+}
